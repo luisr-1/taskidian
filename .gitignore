@@ -158,3 +158,22 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Build output
+dist/
+
+# Vite cache
+.vite/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
